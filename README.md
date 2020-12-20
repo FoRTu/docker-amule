@@ -30,4 +30,4 @@ fortu/amule
 
 Just open a browser and conect to the **4711** port and use the password you set up before to login.
 
-![Amule WwebGUI](screenshot.png) 
+![aMule WebGUI](screenshot.png)
